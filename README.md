@@ -29,7 +29,7 @@
 
 | Project Link | Area of Analysis | Project Description | 
 |---|---|---|
-| 🍫 [Chocolate Sales ](https://github.com/tonguyen50/Chocolate-Sales-Excel-Analysis) | Data Analysis, Data Cleaning , Data Visualization | Analysis of fitness tracking data for Bellabeat's smart device product using SQL. Used insights and developed a dashboard in Tableau to make business reccomendations to Bellabeat's marketing analytics team. Completed for [Google Analytics Capstone](https://www.coursera.org/professional-certificates/google-data-analytics)!
+| 🍫[Chocolate Sales ](https://github.com/tonguyen50/Chocolate-Sales-Excel-Analysis) | Data Analysis, Data Cleaning , Data Visualization | Analysis of fitness tracking data for Bellabeat's smart device product using SQL. Used insights and developed a dashboard in Tableau to make business reccomendations to Bellabeat's marketing analytics team. Completed for [Google Analytics Capstone](https://www.coursera.org/professional-certificates/google-data-analytics)!
 
 ***
 
