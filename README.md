@@ -29,7 +29,7 @@
 
 | Project Link | Area of Analysis | Project Description | 
 |---|---|---|
-| 🍫   [Chocolate Sales ](https://github.com/tonguyen50/Chocolate-Sales-Excel-Analysis) | Data Analysis, Data Cleaning , Data Visualization | Analyzed chocolate sales data from Kaggle using Excel. Leveraged pivot tables and pivot charts to identify sales trends, customer preferences, and seasonal patterns, leading to data-driven marketing recommendations to spread chocolate goodness!
+| 🍫   [Chocolate Sales ](https://github.com/tonguyen50/Chocolate-Sales-Excel-Analysis) | Data Analysis, Data Cleaning , Data Visualization | Analyzed chocolate sales data from Kaggle using Excel. Leveraged pivot tables and pivot charts to identify sales trends, customer preferences, and seasonal patterns, leading to data-driven marketing recommendations to spread chocolate goodness.
 
 ***
 
